@@ -93,9 +93,9 @@ export const assets = {
 
 export const dummyEducatorData = {
     "_id": "675ac1512100b91a6d9b8b24",
-    "name": "GreatStack",
+    "name": "Mayank Mathur",
     "email": "user.greatstack@gmail.com",
-    "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18yclFkaDBOMmFqWnBoTTRBOXZUanZxVlo0aXYifQ",
+    "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zMU03MmJQRWJKUWFQNkZUczB3SEFVellhcVoifQ?width=160",
     "createdAt": "2024-12-12T10:56:17.930Z",
     "updatedAt": "2024-12-12T10:56:17.930Z",
     "__v": 0
@@ -133,7 +133,7 @@ export const dummyDashboardData = {
             "student": {
                 "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
                 "name": "Mayank Mathur",
-                "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zMEdRZXFXdmdObUx5bkZPZ2Z2ZGRQdzF6TlMifQ?width=160"
+                "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zMU03MmJQRWJKUWFQNkZUczB3SEFVellhcVoifQ?width=160"
             }
         },
         {
@@ -141,7 +141,7 @@ export const dummyDashboardData = {
             "student": {
                 "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
                 "name": "Mayank Mathur",
-                "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zMEdRZXFXdmdObUx5bkZPZ2Z2ZGRQdzF6TlMifQ?width=160"
+                "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zMU03MmJQRWJKUWFQNkZUczB3SEFVellhcVoifQ?width=160"
             }
         },
         {
@@ -149,7 +149,7 @@ export const dummyDashboardData = {
             "student": {
                 "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
                 "name": "Mayank Mathur",
-                "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zMEdRZXFXdmdObUx5bkZPZ2Z2ZGRQdzF6TlMifQ?width=160"
+                "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zMU03MmJQRWJKUWFQNkZUczB3SEFVellhcVoifQ?width=160"
             }
         },
         {
@@ -157,7 +157,7 @@ export const dummyDashboardData = {
             "student": {
                 "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
                 "name": "Mayank Mathur",
-                "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zMEdRZXFXdmdObUx5bkZPZ2Z2ZGRQdzF6TlMifQ?width=160"
+                "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zMU03MmJQRWJKUWFQNkZUczB3SEFVellhcVoifQ?width=160"
             }
         },
         {
@@ -165,7 +165,7 @@ export const dummyDashboardData = {
             "student": {
                 "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
                 "name": "Mayank Mathur",
-                "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zMEdRZXFXdmdObUx5bkZPZ2Z2ZGRQdzF6TlMifQ?width=160"
+                "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zMU03MmJQRWJKUWFQNkZUczB3SEFVellhcVoifQ?width=160"
             }
         }
     ],
@@ -177,7 +177,7 @@ export const dummyStudentEnrolled = [
         "student": {
             "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
             "name": "Mayank Mathur",
-            "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zMEdRZXFXdmdObUx5bkZPZ2Z2ZGRQdzF6TlMifQ?width=160"
+            "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zMU03MmJQRWJKUWFQNkZUczB3SEFVellhcVoifQ?width=160"
         },
         "courseTitle": "Introduction to JavaScript",
         "purchaseDate": "2024-12-20T08:39:55.509Z"
@@ -186,7 +186,7 @@ export const dummyStudentEnrolled = [
         "student": {
             "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
             "name": "Mayank Mathur",
-            "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zMEdRZXFXdmdObUx5bkZPZ2Z2ZGRQdzF6TlMifQ?width=160"
+            "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zMU03MmJQRWJKUWFQNkZUczB3SEFVellhcVoifQ?width=160"
         },
         "courseTitle": "Introduction to JavaScript",
         "purchaseDate": "2024-12-20T08:59:49.964Z"
@@ -198,13 +198,14 @@ export const dummyStudentEnrolled = [
             "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zMEdRZXFXdmdObUx5bkZPZ2Z2ZGRQdzF6TlMifQ?width=160"
         },
         "courseTitle": "Advanced Python Programming",
-        "purchaseDate": "2024-12-20T11:03:42.931Z"
+        "purchaseDate": "2024-12-20T11:03:42.931Z",
+        
     },
     {
         "student": {
             "_id": "user_2qQlvXyr02B4Bq6hT0Gvaa5fT9V",
             "name": "Mayank Mathur",
-            "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zMEdRZXFXdmdObUx5bkZPZ2Z2ZGRQdzF6TlMifQ?width=160"
+            "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zMU03MmJQRWJKUWFQNkZUczB3SEFVellhcVoifQ?width=160"
         },
         "courseTitle": "Web Development Bootcamp",
         "purchaseDate": "2024-12-20T11:04:48.798Z"
@@ -374,8 +375,8 @@ export const dummyCourses = [
                         "lectureId": "lecture1",
                         "lectureTitle": "What is Cybersecurity?",
                         "lectureDuration": 10,
-                        "lectureUrl": "https://youtu.be/samplelink5",
-                        "isPreviewFree": true,
+                        "lectureUrl": "https://youtu.be/z5nc9MDbvkw?si=DMx9FIBa5pp9wj1t",
+                        "isPreviewFree": false,
                         "lectureOrder": 1
                     },
                     {
@@ -398,7 +399,7 @@ export const dummyCourses = [
                         "lectureTitle": "Password Management",
                         "lectureDuration": 15,
                         "lectureUrl": "https://youtu.be/samplelink7",
-                        "isPreviewFree": true,
+                        "isPreviewFree": false,
                         "lectureOrder": 1
                     },
                     {
